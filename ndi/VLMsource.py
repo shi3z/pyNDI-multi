@@ -1,5 +1,3 @@
-# pyNDI Made by CarlosFdez
-# Example by Joel Luther-Braun / Github(@Hantoo)
 
 #pyNDI Import
 import finder
